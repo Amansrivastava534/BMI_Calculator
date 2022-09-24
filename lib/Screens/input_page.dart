@@ -15,6 +15,7 @@ enum Gender {
 }
 
 class InputPage extends StatefulWidget {
+  static String routeName="/inputPage";
   const InputPage({Key? key}) : super(key: key);
 
   @override

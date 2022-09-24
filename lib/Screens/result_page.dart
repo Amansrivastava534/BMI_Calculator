@@ -6,6 +6,7 @@ import 'package:flutter/material.dart';
 
 class ResultPage extends StatelessWidget {
 
+
   ResultPage({required this.bmiResult,required this.Interpretation,required this.resultText});
 
   final String bmiResult;
